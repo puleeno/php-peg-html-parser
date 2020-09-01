@@ -1,0 +1,14 @@
+{
+    "name": "puleeno/peg-html-parser",
+    "description": "PEG HTML Parser",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
